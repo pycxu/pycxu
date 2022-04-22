@@ -1,0 +1,26 @@
+@import '../../global.scss';
+
+.home{
+    background-color: $secondaryColor;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 1s ease;
+
+    a{
+        text-decoration: none;
+        color: $mainColor;
+        h1{
+            font-size: 11vw;
+            font-style: italic;
+        }
+    }
+
+    &.active{
+        background-color: $mainColor;
+        a{
+            color: $secondaryColor;
+        }
+    }
+}
