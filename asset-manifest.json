@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pycxu/static/css/main.df42f859.css",
-    "main.js": "/pycxu/static/js/main.42491613.js",
+    "main.css": "/pycxu/static/css/main.0a77361f.css",
+    "main.js": "/pycxu/static/js/main.5aaf4eda.js",
     "index.html": "/pycxu/index.html",
-    "main.df42f859.css.map": "/pycxu/static/css/main.df42f859.css.map",
-    "main.42491613.js.map": "/pycxu/static/js/main.42491613.js.map"
+    "main.0a77361f.css.map": "/pycxu/static/css/main.0a77361f.css.map",
+    "main.5aaf4eda.js.map": "/pycxu/static/js/main.5aaf4eda.js.map"
   },
   "entrypoints": [
-    "static/css/main.df42f859.css",
-    "static/js/main.42491613.js"
+    "static/css/main.0a77361f.css",
+    "static/js/main.5aaf4eda.js"
   ]
 }
